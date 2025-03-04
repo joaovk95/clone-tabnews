@@ -1,5 +1,7 @@
+let page_titles = "<h1>Hey</h1> <h2>I'm doing my best</h2>"
+
 function Home() {
-    return <><h1> Alterado </h1> <h2> Boa noite </h2></>
+    return page_titles
 }
 
 export default Home;
